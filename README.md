@@ -20,5 +20,5 @@ Este projeto é uma calculadora simples escrita em Python que realiza operaçõe
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/calculadora-simples-python.git
+   git clone https://github.com/Cristina1607/calculadora-simples-python.git
 
